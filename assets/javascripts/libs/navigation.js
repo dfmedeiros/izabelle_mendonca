@@ -46,10 +46,8 @@
         if (settings.sticky === true) cssmenu.css('position', 'fixed');
 
         resizeFix = function() {
-          console.log("testando");
           if ($( window ).width() > 991) {
               cssmenu.find('ul').show();
-
           }
 
           if ($(window).width() <= 991) {

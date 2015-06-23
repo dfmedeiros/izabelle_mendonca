@@ -8,7 +8,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://izabellemendonca.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+facebook_username:  izabelle.mendonca.3
+linkedin_username:  jekyll
+instagram_username:  izabellemendonca
 
 # Build settings
 markdown: kramdown
