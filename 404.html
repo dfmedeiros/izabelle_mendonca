@@ -1,0 +1,38 @@
+---
+permalink: 404.html
+---
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body class="full-intro background--dark">
+
+    <!-- Preloader -->
+    <section id="preloader">
+      <div class="loader" id="loader">
+        <div class="loader-img"></div>
+      </div>
+    </section>
+    <!-- End Preloader -->
+
+    <!-- Site Wraper -->
+    <div class="wrapper">
+
+      <section class="full-screen-intro bg-photo3 overlay-dark80 light-color">
+        <div class="content-cap-wraper">
+          <div class="content-caption">
+            <h1 class="large mb-25">Erro 404</h1>
+            <p class="lead content-wd650">A página que você procura não foi encontrada.</p>
+            <br />
+            <a href="{{ "/" | prepend: site.baseurl }}" class="btn btn-md btn-white"><i class="fa fa-angle-left left"></i>Voltar ao Início</a>
+          </div>
+        </div>
+      </section>
+      <div class="clearfix"></div>
+
+    </div>
+    <!-- Site Wraper End -->
+
+    {% include javascripts.html %}
+  </body>
+</html>
