@@ -1198,7 +1198,7 @@ form label.error {
 }
 
     .header.sticky .logo a h3 {
-        color: #000;
+        color: #323232;
     }
 
 .logo a img {
@@ -1441,6 +1441,7 @@ header.sticky .navigation a.current-ele {
 
     .header .logo a h3 {
         color: #323232;
+        font-size: 18px;
     }
 }
 
