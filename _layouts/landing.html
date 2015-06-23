@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body class="full-intro background--dark">
+
+    <!-- Preloader -->
+    <section id="preloader">
+      <div class="loader" id="loader">
+        <div class="loader-img"></div>
+      </div>
+    </section>
+    <!-- End Preloader -->
+
+    <!-- Site Wraper -->
+    <div class="wrapper">
+
+      {% include header.html %}
+
+      {{ content }}
+    </div>
+    <!-- Site Wraper End -->
+
+    {% include javascripts.html %}
+  </body>
+</html>
