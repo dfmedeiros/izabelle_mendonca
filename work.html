@@ -3,3 +3,45 @@ layout: page
 permalink: work/
 title: Portfólio
 ---
+
+<!-- Work Detail Section -->
+<section class="ptb ptb-sm-80">
+  <div class="container">
+
+    <!-- work Filter -->
+    <div class="row">
+      <ul class="container-filter categories-filter">
+        <li><a class="categories active" data-filter="*">Todos</a></li>
+        <li><a class="categories" data-filter=".press">Assessoria de Comunicação</a></li>
+        <li><a class="categories" data-filter=".news">Matérias</a></li>
+        <li><a class="categories" data-filter=".interviews">Entrevistas</a></li>
+        <li><a class="categories" data-filter=".freelas">Freelas</a></li>
+      </ul>
+    </div>
+    <!-- End work Filter -->
+
+    <div class="row container-masonry nf-col-3">
+
+      {% for work in site.data.works %}
+
+        <div class="nf-item spacing {{ work.categories }}">
+          <div class="item-box">
+            <a class="cbox-gallary1" href="{{ "/assets/images/portfolio/" | prepend: site.baseurl | append: work.image }}" title="{{ work.title }}" {% if work.link %} data-link="{{ work.link }}" {% endif %}>
+              <img alt="1" src="{{ "/assets/images/portfolio/" | prepend: site.baseurl | append: work.image }}" class="item-container">
+              <div class="item-mask">
+                <div class="item-caption">
+                  <h5 class="white">{% if work.company %} Empresa: {{ work.company }}{% endif %}</h5>
+                  <p class="white">{% if work.client %} Cliente: {{ work.client }}{% endif %}</p>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
+
+<!-- End Work Detail Section -->

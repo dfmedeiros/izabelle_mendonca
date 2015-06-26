@@ -1,0 +1,97 @@
+- company: Integrativa
+  client: Damha Urbanizadora
+  title: Matéria veiculada na revista Damha
+  link: http://www.damha.com.br/revista-damha/edicao-13/
+  description: true
+  categories: news
+  image: damha-1.jpg
+
+- company: Integrativa
+  client: Damha Urbanizadora
+  title: Matéria veiculada na revista Damha
+  link: http://www.damha.com.br/revista-damha/edicao-13/
+  categories: news
+  image: damha-2.jpg
+
+- company: Integrativa
+  client: Damha Urbanizadora
+  title: Matéria veiculada na revista Damha
+  link: http://www.damha.com.br/revista-damha/edicao-13/
+  categories: news
+  image: damha-3.jpg
+
+- company: Integrativa
+  client: Damha Urbanizadora
+  title: Matéria veiculada na revista Damha
+  link: http://www.damha.com.br/revista-damha/edicao-13/
+  description: true
+  categories: news
+  image: damha-4.jpg
+
+- company: Integrativa
+  client: Minds English School
+  title: Veiculada no portal paraiba.com.br
+  link: http://www.paraiba.com.br/2014/04/29/95500-maioria-dos-brasileiros-que-querem-viajar-ao-exterior-nao-fala-outro-idioma-diz-pesquisa
+  categories: press
+  image: minds-1.gif
+
+- company: Integrativa
+  client: Minds English School
+  title:
+  link: http://www.paraiba.com.br/2014/11/03/16409-especialista-da-dicas-para-perder-o-medo-de-falar-ingles-em-publico
+  categories: press
+  image: minds-2.jpg
+
+- company: Integrativa
+  client: Minds English School
+  title:
+  link: http://www.turismoemfoco.com.br/noticia/16622-escola-oferece-metodo-rapido-e-pratico-no-aprendizado-de-ingles.html
+  categories: press
+  image: minds-3.jpg
+
+- company: Integrativa
+  client: Minds English School
+  title:
+  link: http://www.estilovoila.com.br/mercado/ingles-kids-teen/
+  categories: press
+  image: minds-4.jpg
+
+- company: Integrativa
+  client: O Boticário
+  title: Veiculada no jornal Já
+  categories: press
+  image: boticario-1.jpg
+
+- company: Integrativa
+  client: O Boticário
+  title: Veiculada no jornal Já
+  categories: press
+  image: boticario-2.jpg
+
+- company: Integrativa
+  client: O Boticário
+  title: Veiculada no portal pbnews.com.br
+  link: http://pbnews.com.br/gente-e-tv/2014/06/o-boticario-leva-mais-beleza-para-o-maior-sao-joao-do-mundo.html
+  categories: press
+  image: boticario-3.jpg
+
+- company: Integrativa
+  client: O Boticário
+  title: Veiculada no portal wscom.com.br
+  link: http://www.wscom.com.br/noticia/paraiba/O+BOTICARIO+DE+CATOLE+COMEMORA+23+ANOS-179287
+  categories: press
+  image: boticario-4.jpg
+
+- company: Integrativa
+  client: O Boticário
+  title: Veiculada no portal wscom.com.br
+  link: http://www.paraiba.com.br/2014/08/07/82008-capital-paraibana-sera-contemplada-com-o-novo-conceito-de-lojas-o-boticario
+  categories: press
+  image: boticario-5.jpg
+
+- company: Integrativa
+  client: O Boticário
+  title: Veiculada no portal rcvips.com.br
+  link: http://www.rcvips.com.br/rc-vips/o-boticario-e-contemplado-com-o-premio-excellence-em-solanea-pb/
+  categories: press
+  image: boticario-6.jpg
