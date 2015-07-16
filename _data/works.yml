@@ -278,3 +278,58 @@
   title: Gerenciamento e produção de conteúdo na fan page
   categories: social
   image: social-media-suqo.jpg
+
+- company: Integrativa
+  client: Atelier do Sorriso São Rafael
+  title: Veiculado no Jornal da Paraíba
+  categories: press
+  image: atelier-1.jpg
+
+- company: Integrativa
+  client: Atelier do Sorriso São Rafael
+  link: http://pbnews.com.br/cidades/2015/02/personagens-ludicos-favorecem-tratamento-odontologico-infantil.html
+  title: Veiculado no portal pbnews.com.br
+  categories: press
+  image: atelier-2.jpg
+
+- company: Integrativa
+  client: Atelier do Sorriso São Rafael
+  title: Veiculado no Jornal Já
+  categories: press
+  image: atelier-3.jpg
+
+- company: Integrativa
+  client: Atelier do Sorriso São Rafael
+  link: http://www.heliabotelho.com/index.php?option=com_content&view=article&id=6693:metodo-inovador-de-anestesia-sem-dor-&catid=35:sociedade&Itemid=58#addcomments
+  title: Veiculado no Portal Hélia Botelho
+  categories: press
+  image: atelier-4.jpg
+
+- company: Integrativa
+  client: Integra Eventos
+  link: http://www.paraibatotal.com.br/noticias/2014/12/08/47074-sistema-da-integrativa-realiza-gestao-de-evento-no-maior-centro-de-convencoes-da-america-latina
+  title: Veiculado no Portal Paraíba Total
+  categories: press
+  image: integraeventos.jpg
+
+- client: Grupo Tito Motta
+  categories: freelas
+  title: Texto produzido para proposta comercial
+  image: titomota-1.jpg
+
+- client: Grupo Tito Motta
+  categories: freelas
+  title: Texto produzido para proposta comercial
+  image: titomota-2.jpg
+
+- company: Integrativa
+  link: http://bit.ly/182YwqA
+  title: Veiculado no Portal Paraíba Total
+  categories: interviews
+  image: paraibatotal-1.jpg
+
+- company: Integrativa
+  link: http://migre.me/haeEY
+  title: Veiculado no Portal Paraíba Total
+  categories: interviews
+  image: paraibatotal-2.jpg
